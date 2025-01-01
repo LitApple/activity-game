@@ -74,6 +74,9 @@ body {
 }
 
 .card-front {
+    background-image: url('images/back.png'); /* 设置统一的正面图片 */
+    background-size: cover;
+    background-position: center;
     background-color: #bbb;
 }
 
